@@ -1,6 +1,6 @@
 AI Prompt Study Analysis
 
-This repository contains the analysis of gender-based differences in prompt strategies in Generative Human-AI Interaction. The project includes data exploration, statistical analysis, and visualization of participant responses to better understand how prompt design and interaction strategies differ across groups.
+This repository contains the analysis of gender-based differences in prompt strategies in Generative Human-AI Interaction. The project involves data exploration, statistical analysis, and visualization of participant responses to gain a deeper understanding of how prompt design and interaction strategies vary across different groups.
 
 📂 Project Structure
 
@@ -64,15 +64,11 @@ jupyterlab for interactive notebook execution
 
 📑 Data
 
-responses.csv: Raw participant responses used in the analysis.
+responses.csv: Raw participant responses used in the analysis. Use your own data set. Here is a template uploaded without data
 
 Data preprocessing is handled inside the notebook.
 
 ⚠️ Note: The dataset may contain sensitive research data. Please handle with care according to ethical research guidelines.
-
-📜 License
-
-This project is licensed under the MIT License — see the LICENSE file for details.
 
 ✨ Acknowledgments
 
